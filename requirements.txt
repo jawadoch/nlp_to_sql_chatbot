@@ -1,0 +1,6 @@
+torch
+transformers
+bitsandbytes
+streamlit
+pandas
+pandasql
