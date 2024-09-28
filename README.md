@@ -2,6 +2,10 @@
 
 MyTeamBot is an intelligent assistant designed to answer questions related to players in the Moroccan Botola football league. It uses advanced language models to generate SQL queries from natural language questions and interact with player data stored in a CSV file.
 
+## Project Schema
+
+![Project Schema](solution.png)
+
 ## Features
 
 - **SQL Querying**: Ask questions about players, and MyTeamBot generates SQL queries to retrieve relevant information from the player data.
@@ -23,7 +27,7 @@ Clone the GitHub repository or download the project files, then install the depe
 
 1. Clone this repository:
     ```bash
-    git clone https://github.com/your-username/myteambot.git
+    git clone https://github.com/jawadoch/nlp_to_sql_chatbot.git
     ```
 
 2. Navigate into the project directory:
